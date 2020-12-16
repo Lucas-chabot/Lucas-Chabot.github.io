@@ -1,0 +1,117 @@
+header {
+    background-color: #CC0000;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+
+}
+
+h1 {
+    color: white;
+    font-size: 4em;
+    font-family: 'Lato', sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 13px;
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
+    float: left;
+
+}
+
+nav a:hover {
+    background-color: black;
+    color: #CC0000;
+    text-decoration: underline;
+}
+
+textarea {
+    border-radius: 20px;
+
+}
+
+
+nav i {
+    float: right;
+    padding: 15px;
+}
+
+i {
+    padding: 10px;
+}
+
+body {
+    background-color: white;
+}
+
+.deals {
+    margin-top: 400px;
+    border: solid 2px black;
+    margin-left: 27%
+}
+
+main {
+    background-color: white;
+    width: 100%;
+    height: 2000px;
+    left: 0px;
+
+
+}
+
+.grid1 {
+    display: grid;
+    margin-top: 100px;
+    grid-template-columns: 350px 350px 350px;
+    grid-column-gap: 50px;
+    float: none;
+    justify-content: center;
+}
+
+
+
+p {display: inline;
+    font-family: 'Lato';
+    font-size: 25px;
+    
+    margin: 100px;
+    text-align: center;
+
+}
+
+.marginright {
+    margin-right: 175px
+}
+
+article {
+    position: relative;
+    left: 740px;
+}
+
+.grid2 {
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    grid-column-gap: 100px;
+    justify-content: center;
+    margin-top: 100px;
+}
+section {position: relative;
+left: 680px;}
+
+footer {background-color: #ebebeb;
+height: 400px;}
+
+footer a {
+font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    margin-right: 15px;
+    color: black;
+    text-align: center;
+display: flex;
+    justify-content: center;
+    padding: 5px;
+}
