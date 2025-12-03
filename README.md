@@ -1,2 +1,3 @@
 # Lucas-Chabot.github.io
-Timer counting down to zero from user input.  - Basic Features: Input duration, start/stop/reset, display remaining time.  - Enhanced Features: Custom alert sound, multiple timers.  - Advanced Features: Scheduled timers with notifications, animated transitions.
+A simple and stylish Countdown Timer built with HTML, CSS, and JavaScript.
+The user enters a duration, starts the countdown, and the timer counts down to zero with visual effects and a progress bar.
